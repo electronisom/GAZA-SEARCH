@@ -386,10 +386,8 @@ footer {
         orphans: 3;
         widows: 3;
     }
-    header{
-       margin-bottom: 10px;
+    nav{
+       display: none;
     }
-    .content{
-        margin-top: 10px;
-    }
+]]
 } 
